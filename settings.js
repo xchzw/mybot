@@ -11,14 +11,14 @@
 //hai to, description me xeon ka yt channel
 // ka link paste kr dena as a cradit or github 
 //repo me bhi tag kardena baki jo
-//bhi karna hai apki marzi, thank you!🦄
+//bhi karna hai apki marzi, thank you!😌
 //════════════════════════════//
 //If you recode and uploading on your channel
 //or copy pasting the codes in ur script, 
 //i give permission to do as long as you
 //put Xeons youtube channel link in the video
 //description and tag me on githuh repo, 
-//thank you🦄
+//thank you😌
 //════════════════════════════//
 
 const fs = require('fs')
@@ -38,7 +38,7 @@ global.APIKeys = {
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
-global.autoReadGc = false //auto reading in gc (true to on, false to off)
+global.autoReadGc = true //auto reading in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
@@ -54,23 +54,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['916909137213'] //ur owner number
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
+global.vcardowner = ['919074382971'] //ur owner number
+global.ownername = "𝛪𝑇'𝑆 𝛭𝛯 𝐵𝛩𝐿𝛥𝑅" //ur owner name
 global.ytname = "YT: Xeon" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['916909137213']
-global.ownertag = '916909137213' //ur tag number
-global.botname = 'Cheems Bot MD V4' //ur bot name
+global.owner = ['919074382971']
+global.ownertag = '919074382971' //ur tag number
+global.botname = 'انها لي بالور✅️' //ur bot name
 global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
-global.reactmoji = "😘" //ur menu react emoji
-global.themeemoji = "🦄" //ur theme emoji
+global.reactmoji = "✅️" //ur menu react emoji
+global.themeemoji = "☣️" //ur theme emoji
 global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄Dream Guy Xeon" //ur sticker watermark author
+global.author = "✅️انها لي بالور" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['916909137213'] //ur premium numbers
+global.premium = ['919074382971'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
